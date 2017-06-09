@@ -1,0 +1,6 @@
+Filesystem                          Size   Used  Avail Capacity  iused    ifree %iused  Mounted on
+/dev/disk1                         465Gi   89Gi  376Gi    20% 23341063 98502647   19%   /
+devfs                              180Ki  180Ki    0Bi   100%      624        0  100%   /dev
+map -hosts                           0Bi    0Bi    0Bi   100%        0        0  100%   /net
+map auto_home                        0Bi    0Bi    0Bi   100%        0        0  100%   /home
+localhost:/vO--TCe3ZxQ0p0bMHFtHt1  465Gi  465Gi    0Bi   100%        0        0  100%   /Volumes/MobileBackups

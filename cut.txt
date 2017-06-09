@@ -1,0 +1,4 @@
+e oriented operations.
+ files or directories.
+out files and directories with its attributes.
+this actually prints everything from the 20th character until the end
