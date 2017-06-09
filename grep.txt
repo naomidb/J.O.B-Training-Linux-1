@@ -1,0 +1,198 @@
+11009:2:<item>
+11009:5:    <title>Protein Colloidal Aggregation Project</title>
+11009:8:    <abstract>&lt;p&gt;Finding an optimal treatment for any disease&amp;nbsp;is impossible until we fully understand its&amp;nbsp;cause. We believe the central problem in&amp;nbsp;obtaining this understanding is that the&amp;nbsp;most commonly proposed models for amyloid&amp;nbsp;aggregation may be incorrect, and that the&amp;nbsp;process is not fundamentally biological. We plan to&amp;nbsp;investigate the pathways and kinetics of protein aggregation to allow accurate predictive modeling of the process and evaluation of potential inhibitors to prevalent diseases including cataract formation, chronic traumatic encephalopathy, Alzheimer&amp;rsquo;s Disease, Parkinson&amp;rsquo;s Disease and others.&lt;/p&gt;</abstract>
+11009:9:    <fullDescription>&lt;p&gt;The goal of the Protein Colloidal Aggregation project is to understand the underlying&amp;nbsp;cause of several major diseases, including&amp;nbsp;Alzheimer&amp;rsquo;s, Parkinson&amp;rsquo;s, and chronic&amp;nbsp;traumatic encephalopathy. These diseases&amp;nbsp;all occur when protein molecules undergo&amp;nbsp;a peculiar and irreversible process in which&amp;nbsp;they aggregate to form tiny fibers of a unique&amp;nbsp;material called amyloid, which the body&amp;nbsp;cannot remove.&amp;nbsp;Despite enormous investment in research,&amp;nbsp;the fundamental physiochemical mechanism of&amp;nbsp;these diseases remains poorly understood.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Based on initial studies using atomic force microscopy (AFM), we theorized that the aggregation of proteins in these diseases is driven instead by colloidal interactions, the same forces that govern the behavior&amp;nbsp;of nanoscale particles in the colloidal suspensions we encounter every day, such as paint, milk, and clouds.&lt;/p&gt;&lt;p&gt;Our theory is being validated by the evidence. For many years, NASA has been heavily involved in research into the structure of proteins and their assembly into crystals, and in studying the colloidal interactions and aggregation of nanoscale particles. To date, however, NASA&amp;rsquo;s colloid research has involved&amp;nbsp;only nonbiological materials.&amp;nbsp;But now we&amp;nbsp;are bridging these two fields by studying the colloidal aggregation of proteins.&lt;/p&gt;</fullDescription>
+11009:11:        <libraryItem>
+11009:13:            <title>AFM Image</title>
+11009:23:        </libraryItem>
+11009:24:        <libraryItem>
+11009:26:            <title>Protein Colloidal Aggregation</title>
+11009:36:        </libraryItem>
+11009:37:        <libraryItem>
+11009:39:            <title>SEM Image</title>
+11009:49:        </libraryItem>
+11009:54:            <title>Mechanisms and Techniques to Study Protein Colloidal Aggregation and Its Effects</title>
+11009:56:            <description>&lt;p&gt;The goal of the Protein Colloidal Aggregation project is to understand the underlying&amp;nbsp;cause of several major diseases, including&amp;nbsp;Alzheimer&amp;rsquo;s, Parkinson&amp;rsquo;s, and chronic&amp;nbsp;traumatic encephalopathy. These diseases&amp;nbsp;all occur when protein molecules undergo&amp;nbsp;a peculiar and irreversible process in which&amp;nbsp;they aggregate to form tiny fibers of a unique&amp;nbsp;material called amyloid, which the body&amp;nbsp;cannot remove.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Despite enormous investment in research,&amp;nbsp;the fundamental physiochemical mechanism of&amp;nbsp;these diseases remains poorly understood.&amp;nbsp;Finding an optimal treatment for any disease&amp;nbsp;is impossible until we fully understand its&amp;nbsp;cause. We believe the central problem in&amp;nbsp;obtaining this understanding is that the&amp;nbsp;most commonly proposed models for amyloid&amp;nbsp;aggregation may be incorrect, and that the&amp;nbsp;process is not fundamentally biological.&lt;/p&gt;</description>
+11009:57:            <capabilitiesProvided>&lt;p&gt;NASA has a lot of background and experience in colloidal chemistry and crystal chemistry so this is a perfect opportunity to use that past experience, along with NASA&amp;#39;s knowledge, equipment, and capabilities to evaluate whether this theory could indeed cause the kinds of changes in cells associated with these diseases and thereby allow a different approach by the pharmaceutical and medical industries to potentially come up with new treatments for these diseases.&amp;nbsp;The use of atomic force microscopy and scanning electron microscopy in the evaluation of protein colloidal aggregates and macromolecular networks.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</capabilitiesProvided>
+11009:58:            <potentialApplications>&lt;p&gt;Potential applications for this technology includes:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;The capability to observe colloidal aggregation of proteins in microgravity.&lt;/li&gt;&lt;li&gt;The effects of macromolecular network formation on biological transport processes.&lt;/li&gt;&lt;li&gt;The use of atomic force microscopy in the evaluation of the nanostructure of bone and artificial composite materials.&lt;/li&gt;&lt;/ol&gt;</potentialApplications>
+11009:62:                    <name>Human Health, Life Support, and Habitation Systems</name>
+11009:63:                    <priority>PRIMARY</priority>
+11009:68:                    <priority>PRIMARY</priority>
+11009:71:            <technologyMaturityStart>2</technologyMaturityStart>
+11009:72:            <technologyMaturityCurrent>2</technologyMaturityCurrent>
+11009:73:            <technologyMaturityEnd>3</technologyMaturityEnd>
+11009:77:    <benefitsNASAFunded>&lt;p&gt;The research can only go so far on Earth because gravity keeps the protein structures from growing beyond a certain size in the labora&amp;shy;tory before they collapse of their own weight. Scientists want to send a container holding the proteins to the International Space Station to find out if protein strands grow as the researchers expect. If their theory holds, the proteins should clump together in larger structures than are seen in Earth&amp;rsquo;s normal gravity.&lt;/p&gt;&lt;p&gt;The project is scheduled to fly on Nanoracks in September 2014.&lt;/p&gt;</benefitsNASAFunded>
+11009:78:    <benefitsOGA>&lt;p&gt;The potential benefit of this technology is to understand the mechanism for several diseases in the US and world population including chronic traumatic encephalopathy, Parkinson&amp;#39;s Disease and Alzheimer&amp;#39;s Disease.&lt;/p&gt;</benefitsOGA>
+11009:82:        <city>Kennedy Space Center</city>
+11009:89:            <city>Cleveland</city>
+11009:99:            <name>Florida Institute of Technology (FIT)</name>
+11009:116:        <programManager>Nancy Zeitlin</programManager>
+11009:129:</item>
+LICENSE:5:   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+LICENSE:7:   1. Definitions.
+LICENSE:9:      "License" shall mean the terms and conditions for use, reproduction,
+LICENSE:12:      "Licensor" shall mean the copyright owner or entity authorized by
+LICENSE:15:      "Legal Entity" shall mean the union of the acting entity and all
+LICENSE:16:      other entities that control, are controlled by, or are under common
+LICENSE:17:      control with that entity. For the purposes of this definition,
+LICENSE:19:      direction or management of such entity, whether by contract or
+LICENSE:21:      outstanding shares, or (iii) beneficial ownership of such entity.
+LICENSE:23:      "You" (or "Your") shall mean an individual or Legal Entity
+LICENSE:27:      including but not limited to software source code, documentation
+LICENSE:32:      not limited to compiled object code, generated documentation,
+LICENSE:42:      editorial revisions, annotations, elaborations, or other modifications
+LICENSE:49:      the original version of the Work and any modifications or additions
+LICENSE:51:      submitted to Licensor for inclusion in the Work by the copyright owner
+LICENSE:52:      or by an individual or Legal Entity authorized to submit on behalf of
+LICENSE:53:      the copyright owner. For the purposes of this definition, "submitted"
+LICENSE:54:      means any form of electronic, verbal, or written communication sent
+LICENSE:55:      to the Licensor or its representatives, including but not limited to
+LICENSE:60:      designated in writing by the copyright owner as "Not a Contribution."
+LICENSE:62:      "Contributor" shall mean Licensor and any individual or Legal Entity
+LICENSE:64:      subsequently incorporated within the Work.
+LICENSE:66:   2. Grant of Copyright License. Subject to the terms and conditions of
+LICENSE:73:   3. Grant of Patent License. Subject to the terms and conditions of
+LICENSE:81:      with the Work to which such Contribution(s) was submitted. If You
+LICENSE:82:      institute patent litigation against any entity (including a
+LICENSE:83:      cross-claim or counterclaim in a lawsuit) alleging that the Work
+LICENSE:84:      or a Contribution incorporated within the Work constitutes direct
+LICENSE:87:      as of the date such litigation is filed.
+LICENSE:90:      Work or Derivative Works thereof in any medium, with or without
+LICENSE:92:      meet the following conditions:
+LICENSE:106:      (d) If the Work includes a "NOTICE" text file as part of its
+LICENSE:109:          within such NOTICE file, excluding those notices that do not
+LICENSE:111:          of the following places: within a NOTICE text file distributed
+LICENSE:112:          as part of the Derivative Works; within the Source form or
+LICENSE:113:          documentation, if provided along with the Derivative Works; or,
+LICENSE:114:          within a display generated by the Derivative Works, if and
+LICENSE:118:          notices within Derivative Works that You distribute, alongside
+LICENSE:120:          that such additional attribution notices cannot be construed
+LICENSE:124:      may provide additional or different license terms and conditions
+LICENSE:127:      reproduction, and distribution of the Work otherwise complies with
+LICENSE:128:      the conditions stated in this License.
+LICENSE:130:   5. Submission of Contributions. Unless You explicitly state otherwise,
+LICENSE:131:      any Contribution intentionally submitted for inclusion in the Work
+LICENSE:132:      by You to the Licensor shall be under the terms and conditions of
+LICENSE:133:      this License, without any additional terms or conditions.
+LICENSE:134:      Notwithstanding the above, nothing herein shall supersede or modify
+LICENSE:136:      with Licensor regarding such Contributions.
+LICENSE:144:      agreed to in writing, Licensor provides the Work (and each
+LICENSE:145:      Contributor provides its Contributions) on an "AS IS" BASIS,
+LICENSE:146:      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+LICENSE:147:      implied, including, without limitation, any warranties or conditions
+LICENSE:148:      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
+LICENSE:151:      risks associated with Your exercise of permissions under this License.
+LICENSE:153:   8. Limitation of Liability. In no event and under no legal theory,
+LICENSE:156:      negligent acts) or agreed to in writing, shall any Contributor be
+LICENSE:159:      result of this License or out of the use or inability to use the
+LICENSE:160:      Work (including but not limited to damages for loss of goodwill,
+LICENSE:163:      has been advised of the possibility of such damages.
+LICENSE:165:   9. Accepting Warranty or Additional Liability. While redistributing
+LICENSE:167:      and charge a fee for, acceptance of support, warranty, indemnity,
+LICENSE:168:      or other liability obligations and/or rights consistent with this
+LICENSE:170:      on Your own behalf and on Your sole responsibility, not on behalf
+LICENSE:172:      defend, and hold each Contributor harmless for any liability
+LICENSE:174:      of your accepting any such warranty or additional liability.
+LICENSE:176:   END OF TERMS AND CONDITIONS
+LICENSE:181:      boilerplate notice, with the fields enclosed by brackets "{}"
+LICENSE:182:      replaced with your own identifying information. (Don't include
+LICENSE:187:      identification within third-party archives.
+LICENSE:192:   you may not use this file except in compliance with the License.
+LICENSE:197:   Unless required by applicable law or agreed to in writing, software
+LICENSE:199:   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+LICENSE:201:   limitations under the License.
+README.md:3:## This is the first online assignment for the Linux commands training module and in this assignment you will clone this repository to your local computer by doing the following:
+README.md:5:2. Select your GitHub account as the desitnation to fork the repository
+README.md:6:3. Click the link to your newly forked repository
+README.md:10:7. Type git clone and then press command V to paste the clipboard url in your terminal
+README.md:14:Before you begin, set your current repository to a variable we can use later by typing ``` repodir=`pwd` ```
+README.md:46:  * note that the you now see more directories such as .git and .DS_Store
+README.md:58:  * note that you receive an error when trying to concatenate users because it is a directory and not a file 
+README.md:63:In a terminal window practice executing commands as another user by typing sudo. Sudo is a very powerful command that allows you to execute programs on a Linux system that are restricted to specific account with higher elevated rights.
+README.md:66:  * note that your terminal now reads root because you have just switched to the root user account. Every command you type is executed as the root user and can be harmful if you are not careful
+README.md:67:3. Type the command ```exit``` to return to your regular user account
+README.md:76:  * note that your terminal returns every line in the file that inclues the word we and We because the -i option turns on case insensitivity for grep
+README.md:81:6. Now type the command ```grep -in 'it' * > grep.txt``` and press enter
+README.md:82:  * note that grep has searched every file in the current directory for the word it and returned output showing the file and line number it found it on
+README.md:84:## You have now completed the first online exercise for Linux commands. You will now be taken back to the Jump on Board website to begin the next section regarding system commands. Please return to the <a href="https://kevinhanson.github.io/J.O.B.-Jump-On-Board#system" target="_blank">Linux Commands Course Website</a> to continue to the next section.
+cut.txt:3:out files and directories with its attributes.
+cutpractice.txt:3:ls command to list out files and directories with its attributes.
+df.txt:1:Filesystem                          Size   Used  Avail Capacity  iused    ifree %iused  Mounted on
+doi.txt:12:Access-Control-Allow-Headers: X-Requested-With, Accept, Accept-Encoding, Accept-Charset, Accept-Language, Accept-Ranges, Cache-Control
+doi.txt:14:Link: <http://dx.doi.org/10.5555/515151>; rel="canonical", <http://annalsofpsychoceramics.labs.crossref.org/fulltext/10.5555/515151.pdf>; version="vor"; type="application/pdf"; rel="item", <http://annalsofpsychoceramics.labs.crossref.org/fulltext/10.5555/515151.xml>; version="vor"; type="application/xml"; rel="item", <http://www.crossref.org/license>; version="vor"; rel="license", <http://creativecommons.org/licenses/by/3.0/deed.en_US>; version="vor"; rel="license", <http://orcid.org/0000-0002-1825-0097>; title="Josiah Carberry"; rel="author"
+doi.txt:17:Server: http-kit
+doi.txt:19:X-Rate-Limit-Limit: 50
+doi.txt:20:X-Rate-Limit-Interval: 1s
+doi.txt:32:        <crm-item name="publisher-name" type="string">CrossRef Test Account</crm-item>
+doi.txt:33:        <crm-item name="prefix-name" type="string" />
+doi.txt:34:        <crm-item name="member-id" type="number">7822</crm-item>
+doi.txt:35:        <crm-item name="citation-id" type="number">61425744</crm-item>
+doi.txt:36:        <crm-item name="journal-id" type="number">209225</crm-item>
+doi.txt:37:        <crm-item name="deposit-timestamp" type="number">20130220090029</crm-item>
+doi.txt:38:        <crm-item name="owner-prefix" type="string">10.5555</crm-item>
+doi.txt:39:        <crm-item name="last-update" type="date">2014-06-05T18:30:20Z</crm-item>
+doi.txt:40:        <crm-item name="created" type="date">2013-04-02T10:33:26Z</crm-item>
+doi.txt:41:        <crm-item name="citedby-count" type="number">0</crm-item>
+doi.txt:46:                <full_title>Annals of Psychoceramics B</full_title>
+doi.txt:47:                <abbrev_title>Annals Psychoceramics B</abbrev_title>
+doi.txt:60:                <titles>
+doi.txt:61:                  <title>The Global State of Psychoceramics Research</title>
+doi.txt:62:                </titles>
+doi.txt:79:                <publisher_item>
+doi.txt:82:                </publisher_item>
+doi.txt:127:                    <item crawler="google">
+doi.txt:129:                    </item>
+doi.txt:130:                    <item crawler="msn">
+doi.txt:132:                    </item>
+doi.txt:133:                    <item crawler="altavista">
+doi.txt:135:                    </item>
+doi.txt:136:                    <item crawler="yahoo">
+doi.txt:138:                    </item>
+doi.txt:139:                    <item crawler="scirus">
+doi.txt:141:                    </item>
+doi.txt:144:                    <item>
+doi.txt:146:                    </item>
+doi.txt:147:                    <item>
+doi.txt:149:                    </item>
+exercise2.md:15:  * note that the terminal displays the disk usage and availablity
+exercise2.md:17:  * note that the terminal now displays disk usage in gigabyte or megabyte sizes to make it easier to read
+exercise2.md:26:  * press the Q button to quit out of the manual
+exercise2.md:28:  * note the terminal shows you all the running commands on your computer with the highest CPU usage program listed at the top
+exercise2.md:29:  * press the Q button to quit top
+exercise2.md:35:  * press the Q button to quit out of the manual
+exercise2.md:40:## You have now completed the second online exercise for Linux commands. You will now be taken back to the Jump on Board website to begin the next section regarding file handling commands. Please return to the <a href="https://kevinhanson.github.io/J.O.B.-Jump-On-Board#filehandling" target="_blank">Linux Commands Course Website</a> to continue to the next section.
+exercise3.md:20:  * note that there is now a file2.txt file and that it is the same size as file.txt
+exercise3.md:28:  * press the Q button to quit out of the manual
+exercise3.md:40:  * press the Q button to quit out of the manual
+exercise3.md:49:  * press the Q button to quit out of the manual
+exercise3.md:54:## You have now completed the third online exercise for Linux commands. You will now be taken back to the Jump on Board website to be introduced to the next section regarding data manipulation commands.Please return to the <a href="https://kevinhanson.github.io/J.O.B.-Jump-On-Board#data" target="_blank">Linux Commands Course Website</a> to continue to the next section.
+exercise4.md:20:In a terminal window use the Nano command. This command is useful to edit files on your local disk.
+exercise4.md:24:  * note that a window comes up with a blank screen at the top and a series of commands at the bottom
+exercise4.md:29:  * press control X, which means to exit nano
+exercise4.md:34:In a terminal window practice the vim command. This command is useful edit files on your local disk and is more robust in options than nano. It can process find and replace operations in very large files very fast.
+exercise4.md:37:  * press the Q button to quit out of the manual
+exercise4.md:44:  * These steps have allowed you to create a new vim.txt file, insert text in the file, then write and quit the file.
+exercise4.md:47:5. Vim comes with its very own tutorial and provides lessons for you to practice and improve your use of vim. At the conclusion of this module you are encouraged to type ```vimtutor``` in a terminal and take the tutorial to improve your vim skills. 
+exercise4.md:53:  * press the Q button to quit out of the manual
+exercise4.md:66:## You have now completed the fourth online exercise for Linux commands. You will now be taken back to the Jump on Board website to begin the next section regarding network commands. Please return to the <a href="https://kevinhanson.github.io/J.O.B.-Jump-On-Board#network" target="_blank">Linux Commands Course Website</a> to continue to the next section.
+exercise5.md:6:In a terminal window practice the wget command. This command is used to download files from the internet without a browser.
+exercise5.md:9:  * press the Q button to quit out of the manual
+exercise5.md:10:2. Type the command ```wget https://techport.nasa.gov/api/items/11009``` 
+exercise5.md:13:  * press Q to exit less
+exercise5.md:19:  * press the Q button to quit out of the manual
+exercise5.md:21:  * note that the curl command went to doi.org to download metadata regarding the doi 10.5555/515151 and saved it into a file called doi.txt
+exercise5.md:22:3. Now type ```curl http://wttr.in/Moon > moon.txt``` and ```cat moon.txt``` to see that curl saved the output of wttr.in site with the moon phase information
+exercise5.md:23:4. Now type ```curl -Is http://www.ufl.edu -L | grep HTTP/``` and note that the website says ok. This can be used as a way to check if a website is online or not.
+exercise5.md:27:## You have now completed the fifth and final online exercise for Linux commands. You will now be taken back to the Jump on Board website to take a quiz on the material covered in the online exercises. At the conclusion of the quiz you will have a face-to-face meeting with your trainer for a review session to discuss your experience with the content in this course. 
+exercise5.md:29:## Please return to the <a href="https://kevinhanson.github.io/J.O.B.-Jump-On-Board#quiz" target="_blank">Linux Commands Course Website</a> to start the quiz.
+gettysburg-address.txt:6:proposition that all men are created equal. Now we are engaged in 
+gettysburg-address.txt:11:lives that that nation might live. It is altogether fitting and 
+gettysburg-address.txt:15:it far above our poor power to add or detract. The world will 
+gettysburg-address.txt:16:little note nor long remember what we say here, but it can never 
+gettysburg-address.txt:17:forget what they did here. It is for us the living rather to be 
+gettysburg-address.txt:19:have thus far so nobly advanced. It is rather for us to be here 
+gettysburg-address.txt:36:  credit is given to the preparer(s) and the National Public
+ls.txt:13:drwxr-xr-x  12 looseymoose  staff    408 Jun  5 11:01 .git
+phonebook.csv:8:Mitsue,Tollner,773-573-6914
+pwd.txt:1:/Users/looseymoose/code/kevinhanson.github/J.O.B-Training-Linux-1
+pwd.txt:2:/Users/looseymoose/code/kevinhanson.github/J.O.B-Training-Linux-1
